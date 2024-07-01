@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!",
+        "title": "Welcome to Yay: Where Innovators Share and Inspire"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Welcome to Yay: Where Innovators Share and Inspire",
+  "subtitle": "Dive into technical tales and discoveries from the brilliant minds shaping the future. Let's build, learn, and grow together!"
+}
